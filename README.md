@@ -1,4 +1,6 @@
 # cloud-itonami-isco-2434
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 2434. This app is not produced, reviewed or endorsed by the ILO.
+職業の参照: ISCO-08（国際労働機関 ILO、2012 年）のコード 2434。日本語の名称は当方の訳です。この app は ILO が作成・確認・推奨したものではありません。
 
 Open Business Blueprint for **ISCO-08 2434**: Information and Communications Technology Sales Professionals — an ISCO
 **Wave 0 (cognitive substrate)** occupation per ADR-2607121000:
